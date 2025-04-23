@@ -1,0 +1,21 @@
+{
+  "name": "node-24captcha",
+  "version": "1.0.0",
+  "description": "24Captcha client for Node.js",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/justDarian/node-24captcha.git"
+  },
+  "keywords": [
+    "24captcha",
+    "hcaptcha",
+    "captcha"
+  ],
+  "author": "justDarian <https://github.com/justDarian>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "*"
+  }
+}
