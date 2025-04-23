@@ -1,7 +1,7 @@
-import Captcha24 from './index.js'
+import node24captcha from './index.js'
 
 (async()=>{
-    const solver=new Captcha24('0d4d9f5d39ded9b4cb57f3750ab0dea0', {
+    const solver=new node24captcha('0d4d9f5d39ded9b4cb57f3750ab0dea0', {
       debug:true
     })
   
