@@ -26,9 +26,9 @@ npm install node-24captcha
 ## Usage
 
 ```js
-import captchaClient from 'node-24captcha'
+import node24captcha from 'node-24captcha'
 
-const client = new captchaClient('yourApiKey', {
+const client = new node24captcha('yourApiKey', {
   debug: true
 })
 
